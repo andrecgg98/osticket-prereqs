@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-
+Step 1: Create an Azure account and login to your Azure portal.
 <img width="1438" alt="! Installation Steps Dummy Image3 (Gemini_Generated_Image_ddv2j1ddv2j1ddv2 png  Carlos test Image for Installation Steps )" src="https://github.com/user-attachments/assets/3d7616f1-06b5-4758-9020-100d8e5bbc23" />
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
