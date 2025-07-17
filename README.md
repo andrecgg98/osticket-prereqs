@@ -225,7 +225,6 @@ sudo rm -rf /var/www/html/osticket/setup/
 ## You’re Done!
 
 osTicket is now installed and running on your Azure VM.  
-Login to your admin panel at `http://<YOUR_VM_PUBLIC_IP>/osticket/scp`.
 
 ---
 
